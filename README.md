@@ -1,0 +1,1 @@
+Simple browser built with Python's QWebEngine. This is the main program that calls four other microservices - microservices that work indepently of the main program. The main program has very basic browser capabilities and the microservices it will call are more specific. 
